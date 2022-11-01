@@ -8,17 +8,20 @@ All occurrences of a character must be replaced with another character while pre
 
 ```
 Example 1:
-
 Input: s = "egg", t = "add"
 Output: true
-Example 2:
 
+Example 2:
 Input: s = "foo", t = "bar"
 Output: false
-Example 3:
 
+Example 3:
 Input: s = "paper", t = "title"
 Output: true
+
+Example 4:
+Input: s = "badc", t = "baba"
+Output: false
 ```
 
 - 1 <= s.length <= 5 \* 104
